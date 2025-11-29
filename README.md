@@ -86,13 +86,13 @@
 
 <div align="center">
 
-![챗봇 메인 화면](./screenshots/main.png/800x400?text=챗봇+메인+화면)
+![챗봇 메인 화면](./screenshots/main.png)
 *챗봇 메인 화면: 간단한 UI로 누구나 쉽게 사용 가능*
 
-![질문 예시](./screenshots/example.png/800x400?text=질문+예시)
+![질문 예시](./screenshots/example.png)
 *질문 예시: 항공사별 환불 규정을 정확하게 답변*
 
-![근거 문서](./screenshots/sources.png/800x400?text=근거+문서+표시)
+![근거 문서](./screenshots/sources.png)
 *근거 문서 표시: 답변의 출처를 명확히 확인*
 
 </div>
