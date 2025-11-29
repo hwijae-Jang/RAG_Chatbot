@@ -86,13 +86,13 @@
 
 <div align="center">
 
-![챗봇 메인 화면](https://via.placeholder.com/800x400?text=챗봇+메인+화면)
+![챗봇 메인 화면](./screenshots/main.png/800x400?text=챗봇+메인+화면)
 *챗봇 메인 화면: 간단한 UI로 누구나 쉽게 사용 가능*
 
-![질문 예시](https://via.placeholder.com/800x400?text=질문+예시)
+![질문 예시](./screenshots/example.png/800x400?text=질문+예시)
 *질문 예시: 항공사별 환불 규정을 정확하게 답변*
 
-![근거 문서](https://via.placeholder.com/800x400?text=근거+문서+표시)
+![근거 문서](./screenshots/sources.png/800x400?text=근거+문서+표시)
 *근거 문서 표시: 답변의 출처를 명확히 확인*
 
 </div>
@@ -325,7 +325,7 @@ Copyright (c) 2024 아몰랑환불해줘팀
       <a href="https://github.com/member1">
         <img src="https://via.placeholder.com/100" width="100px;" alt=""/>
         <br />
-        <sub><b>팀원 1</b></sub>
+        <sub><b>장휘재</b></sub>
       </a>
       <br />
       <sub>프로젝트 리드</sub>
@@ -334,19 +334,19 @@ Copyright (c) 2024 아몰랑환불해줘팀
       <a href="https://github.com/member2">
         <img src="https://via.placeholder.com/100" width="100px;" alt=""/>
         <br />
-        <sub><b>팀원 2</b></sub>
+        <sub><b>김찬영</b></sub>
       </a>
       <br />
-      <sub>AI 개발</sub>
+      <sub>데이터 수집 및 정제, UI 구현</sub>
     </td>
     <td align="center">
       <a href="https://github.com/member3">
         <img src="https://via.placeholder.com/100" width="100px;" alt=""/>
         <br />
-        <sub><b>팀원 3</b></sub>
+        <sub><b>이현성</b></sub>
       </a>
       <br />
-      <sub>데이터 수집</sub>
+      <sub>데이터 수집 및 정제, UI 구현</sub>
     </td>
   </tr>
 </table>
@@ -359,11 +359,8 @@ Copyright (c) 2024 아몰랑환불해줘팀
 
 프로젝트에 대한 질문이나 제안이 있으신가요?
 
-- 📧 **이메일**: your-email@example.com
+- 📧 **이메일**: hwijae35@naver.com
 - 🐛 **버그 리포트**: [Issues](https://github.com/your-username/airline-refund-chatbot/issues)
-- 💬 **디스코드**: [프로젝트 서버](https://discord.gg/your-invite) (선택사항)
-- 🐦 **트위터**: [@your_handle](https://twitter.com/your_handle)
-
 ---
 
 ## 🙏 감사의 말
@@ -374,6 +371,7 @@ Copyright (c) 2024 아몰랑환불해줘팀
 - [Streamlit](https://streamlit.io/) - 웹 앱 프레임워크
 - [ChromaDB](https://www.trychroma.com/) - 벡터 데이터베이스
 - [OpenAI](https://openai.com/) - GPT 모델 제공
+- [위니브](https://weniv.co.kr/) - AI Chatbot & RAG 기반 서비스 개발자 양성과정
 
 ---
 
