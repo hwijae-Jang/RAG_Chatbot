@@ -229,8 +229,7 @@ PR 제출 전에 확인해주세요:
 기여 과정에서 질문이 있다면:
 
 - GitHub Issues에 질문 남기기
-- 이메일: your-email@example.com
-- Discord: 프로젝트 서버 (선택사항)
+- 이메일: hwijae35@naver.com
 
 ## 🎁 기여자 명단
 
