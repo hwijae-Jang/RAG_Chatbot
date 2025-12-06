@@ -934,3 +934,26 @@ with st.expander("ℹ️ 사용 가이드", expanded=False):
        - "노쇼" → "No-Show"로 자동 확장
        - "환불" → "refund"로 자동 확장
     """)
+
+# 설문지
+st.markdown("---")
+
+col1, col2 = st.columns(2)
+
+with col1:
+    st.markdown("""
+    ### 📋 피드백 주세요!
+    
+    사용 후 간단한 설문조사(1분)에 참여해주시면 감사하겠습니다! 
+    
+    [설문조사 참여하기](https://forms.gle/w9Pak4xWt6WSVJCR9)
+    """)
+
+with col2:
+    st.markdown("""
+    ### 🐛 버그 제보
+    
+    오류나 개선사항이 있다면 알려주세요.
+    
+    [GitHub Issues](https://github.com/hwijae-Jang/RAG_Chatbot/issues)
+    """)
