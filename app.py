@@ -7,13 +7,19 @@ import re
 
 # 필수 패키지 로드
 try:
-    from langchain_openai import ChatOpenAI, OpenAIEmbeddings
+    # from langchain_openai import ChatOpenAI, OpenAIEmbeddings
     # from langchain.prompts import ChatPromptTemplate
-    from langchain_core.prompts import ChatPromptTemplate
-    from langchain.schema.output_parser import StrOutputParser
-    from langchain_community.document_loaders import TextLoader
-    from langchain_text_splitters import RecursiveCharacterTextSplitter
+    # from langchain.schema.output_parser import StrOutputParser
+    # from langchain_community.document_loaders import TextLoader
+    # from langchain_text_splitters import RecursiveCharacterTextSplitter
+    # from langchain_community.vectorstores import Chroma
+    # LangChain (수정된 버전)
+    from langchain_openai import ChatOpenAI, OpenAIEmbeddings
     from langchain_community.vectorstores import Chroma
+    from langchain_text_splitters import RecursiveCharacterTextSplitter
+    from langchain_core.prompts import ChatPromptTemplate
+    from langchain_core.output_parsers import StrOutputParser
+    from langchain_core.runnables import RunnablePassthrough
 except ImportError as e:
     st.error(f"필요한 패키지를 설치해주세요: {e}")
     st.stop()
