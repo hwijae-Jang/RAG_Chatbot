@@ -513,8 +513,8 @@ def initialize_vectordb():
     # 파일 패턴
     patterns = [
         "/content/data/airlines_md/*.md",
-        # "./data/airlines_md/*.md",
-        # "data/airlines_md/*.md",
+        "./data/airlines_md/*.md",
+        "data/airlines_md/*.md",
     ]
 
     seen = set()
