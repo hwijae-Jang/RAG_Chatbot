@@ -8,7 +8,8 @@ import re
 # 필수 패키지 로드
 try:
     from langchain_openai import ChatOpenAI, OpenAIEmbeddings
-    from langchain.prompts import ChatPromptTemplate
+    # from langchain.prompts import ChatPromptTemplate
+    from langchain_core.prompts import ChatPromptTemplate
     from langchain.schema.output_parser import StrOutputParser
     from langchain_community.document_loaders import TextLoader
     from langchain_text_splitters import RecursiveCharacterTextSplitter
