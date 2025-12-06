@@ -1,5 +1,3 @@
-# @title
-%%writefile app.py
 
 import os
 import glob
